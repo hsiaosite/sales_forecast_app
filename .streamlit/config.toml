@@ -1,0 +1,16 @@
+[server]
+headless = true
+runOnSave = true
+enableCORS = false
+maxUploadSize = 200
+
+[theme]
+primaryColor = "#4CAF50"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F5F5F5"
+textColor = "#000000"
+font = "sans serif"
+
+[layout]
+# 寬版顯示（更適合圖表與表格）
+wideMode = true

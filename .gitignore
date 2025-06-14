@@ -1,0 +1,3 @@
+# .gitignore 內容
+*.zip
+train_all.csv
