@@ -5,3 +5,4 @@ prophet
 numpy
 scikit-learn
 xgboost
+openai
