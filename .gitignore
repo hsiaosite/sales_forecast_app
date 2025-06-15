@@ -1,3 +1,9 @@
 # .gitignore 內容
 *.zip
 train_all.csv
+指令.txt
+app-base.py
+app_forecast_with_ai.py
+
+.env
+/bak
